@@ -1,1 +1,2 @@
+rootProject.name = "barcode-photo-app-full"
 include ':app'
